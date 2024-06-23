@@ -19,7 +19,7 @@ iska matlab ki mai apne barrier ko khol bhi sakta hu aur band bhi kar sakta hu r
 
 
 
-#step-3 agar mujhe photocell connect karna hai apne barrier ke sath to mai kaise karunga
+#step-3 agar mujhe photocell connect karna hai apne barrier ke sath to mai kaise karunga= so iske liye IR tx aur Rx aata hai. jo Tx wala hota hai wo barrier ke sath lagta hai aur jo Rx wala hota hai wo boom rest ke side hota hai. so Tx wale me basically char pins hote hai gnd, vcc, com, IR aur barrier me jo pins hote hai left side me 12V, gnd, Ir means jo IR TX me gnd aur com ka pin hai ye dono pins barrier ke gnd pin ke sath connect ho jayenge.
 
 
 
