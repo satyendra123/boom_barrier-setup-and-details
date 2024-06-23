@@ -1,5 +1,5 @@
 # boom_barrier-setup-and-details
-boom barrier ka setup kaise karte hai uska pcb aur iske sare details files. boom barrier, flap barrier, turnstile, access controller, face recognisation based access controller, fingerprint based access controller, rfid based door access controller, how to make LAN connection, PGS sensor, baggage scanner, QR scanner based access controller, handheld machine for ticket and bluetooth for open the barrier, 
+boom barrier ka setup kaise karte hai uska pcb aur iske sare details files. boom barrier, flap barrier, turnstile, access controller, face recognisation based access controller, fingerprint based access controller, rfid based door access controller, how to make LAN connection, PGS sensor, baggage scanner, QR scanner based access controller, handheld machine for ticket and bluetooth for open the barrier, full height turnstile, 
 
 # rfid tag bhi do tarah ke hote hai ek to proximity card aur dusra myfare card. in dono me kya difference hota hai ye pta karna hai mujhe
 
